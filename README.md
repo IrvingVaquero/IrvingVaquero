@@ -27,7 +27,7 @@
 
 ##  Estadisticas
 
-<div align='center' style="display: flex; justify-content: center; align-items: center; gap: 25px;">
+<div align='center' style="display: flex; justify-content: center; align-items: center; column-gap: 35px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogollonalex&layout=demo" alt="">
     <img src="https://github-readme-stats.vercel.app/api?username=irvingvaquero&show_icons=true&theme=dark" alt="">
 </div>
