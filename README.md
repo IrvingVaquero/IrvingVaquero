@@ -2,9 +2,11 @@
 
 ![](https://img.shields.io/github/followers/irvingvaquero?label=follow&logo=github&style=flat-square)![](https://img.shields.io/github/stars/irvingvaquero?label=%E2%AD%90GitHub%20stars&style=flat-square)![](https://komarev.com/ghpvc/?username=irvingvaquero&style=flat-square&color=ff69b4)
 
-##  Sobre mi
+
 
 <p style="text-align: center;" align='center'>🧑 Irving Vaquero | 👨‍💻 Desarrollador Front end | 🏙 Juarez, Chih</p>
+
+##  Sobre mi
 
 - Estudio Tecnologias de la informacion y comunicacion en TECNM Campus Cd. Juárez
 - Busco desarrollar mi carrera como desarrollador front end
