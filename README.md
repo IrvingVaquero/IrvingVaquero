@@ -12,7 +12,7 @@
 - Busco desarrollar mi carrera como desarrollador front end
 - Mis experiencias laborales han sido dentro de empresas en el área de sistema en el equipo de desarrollo 
 
-# Redes sociales:
+## Redes sociales:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
     <code> <a margin='0 15px' href="https://www.linkedin.com/in/irving-vaquero-flores-80954b206/"><img src="./assets/icons/linkedin.png" style="width:45px ;height: 45px;" alt="linkedin"></a></code>
     <code><a target='_blank' margin='0 15px' href="mailto:ivaqueroflores@gmail.com"><img src="./assets/icons/gmail.png" style="width:45px ;height: 45px;" alt="gmail"></a></code>
