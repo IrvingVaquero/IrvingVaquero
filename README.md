@@ -6,7 +6,7 @@
 
 <p style="text-align: center;" align='center'>🧑 Irving Vaquero | 👨‍💻 Desarrollador Front end | 🏙 Juarez, Chih</p>
 
-##  Sobre mi
+##  Sobre mi:
 
 - Estudio Tecnologias de la informacion y comunicacion en TECNM Campus Cd. Juárez
 - Busco desarrollar mi carrera como desarrollador front end
@@ -18,7 +18,7 @@
     <code><a target='_blank' margin='0 15px' href="mailto:ivaqueroflores@gmail.com"><img src="./assets/icons/gmail.png" style="width:45px ;height: 45px;" alt="gmail"></a></code>
 </div>
 
-##  Tecnologias
+##  Tecnologias:
 <div align='center' style="display: flex; justify-content: center; column-gap: 15px;text-align: center;">
     <img title="HTML" style="width:60px ;height: 60px;" src="./assets/icons/html-5.png" alt="">
     <img title="CSS" style="width:60px ;height: 60px;" src="./assets/icons/css.png" alt="">
@@ -31,7 +31,7 @@
     <img title="ORACLE-APEX" style="width:140px ;height: 60px;" src="https://www.insum.ca/wp-content/uploads/2016/03/APEX_Logo.png" alt="">
 </div>
 
-##  Estadisticas
+##  Estadisticas:
 
 <div align='center' style="display: flex; justify-content: center; align-items: center; column-gap: 35px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogollonalex&layout=demo" alt="">
