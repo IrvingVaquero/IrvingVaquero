@@ -14,8 +14,8 @@
 
 # Redes sociales:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
-    <a target='_blank' margin='0 15px' href="https://www.linkedin.com/in/irving-vaquero-flores-80954b206/"><img src="./assets/icons/linkedin.png" alt="linkedin"></a>
-    <a target='_blank' margin='0 15px' href="mailto:ivaqueroflores@gmail.com"><img src="./assets/icons/gmail.png" alt="gmail"></a>
+    <code> <a target='_blank' margin='0 15px' href="https://www.linkedin.com/in/irving-vaquero-flores-80954b206/"><img src="./assets/icons/linkedin.png" style="width:60px ;height: 60px;" alt="linkedin"></a></code>
+    <code><a target='_blank' margin='0 15px' href="mailto:ivaqueroflores@gmail.com"><img src="./assets/icons/gmail.png" style="width:60px ;height: 60px;" alt="gmail"></a></code>
 </div>
 
 ##  Tecnologias
