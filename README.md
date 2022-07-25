@@ -13,7 +13,7 @@
 - Mis experiencias laborales han sido dentro de empresas en el área de sistema en el equipo de desarrollo 
 
 ##  Tecnologias
-<div style="display: flex; justify-content: center; gap: 10px;text-align: center;">
+<div align='center' style="display: flex; justify-content: center; column-gap: 15px;text-align: center;">
     <img title="HTML" style="width:60px ;height: 60px;" src="./assets/icons/html-5.png" alt="">
     <img title="CSS" style="width:60px ;height: 60px;" src="./assets/icons/css.png" alt="">
     <img title="JAVASCRIPT" style="width:60px ;height: 60px;" src="./assets/icons/js.png" alt="">
@@ -27,7 +27,7 @@
 
 ##  Estadisticas
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 25px;">
+<div align='center' style="display: flex; justify-content: center; align-items: center; gap: 25px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogollonalex&layout=demo" alt="">
     <img src="https://github-readme-stats.vercel.app/api?username=irvingvaquero&show_icons=true&theme=dark" alt="">
 </div>
